@@ -23,6 +23,7 @@ Get ready and click to start page:
 ![start](https://github.com/SherMish/IOT-The-Lightning-Suit/blob/main/README%20screenshots/4.png)
 Good posture comment:
 ![good-posture](https://github.com/SherMish/IOT-The-Lightning-Suit/blob/main/README%20screenshots/6.jpg?raw=true)
+
 Bad posture comment:
 ![bad-posture](https://github.com/SherMish/IOT-The-Lightning-Suit/blob/main/README%20screenshots/7.jpg?raw=true)
 Workout summary page:
