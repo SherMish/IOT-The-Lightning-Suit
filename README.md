@@ -10,7 +10,10 @@ friendly web application. Some of the features:
 
 A full demonstration can be found [here](https://www.youtube.com/watch?v=k7HDuFIIDnE&ab_channel=IOT_Technion)
 
-
+https://github.com/SherMish/IOT-The-Lightning-Suit/blob/main/README%20screenshots/0.jpeg?raw=true
+https://github.com/SherMish/IOT-The-Lightning-Suit/blob/main/README%20screenshots/1.png?raw=true
+![official-poster](https://github.com/SherMish/IOT-The-Lightning-Suit/blob/main/README%20screenshots/0.jpeg?raw=true)
+![hope-page](https://github.com/SherMish/IOT-The-Lightning-Suit/blob/main/README%20screenshots/1.png?raw=true)
 
 
 # External resources:
