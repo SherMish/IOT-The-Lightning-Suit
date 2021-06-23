@@ -10,10 +10,23 @@ friendly web application. Some of the features:
 
 A full demonstration can be found [here](https://www.youtube.com/watch?v=k7HDuFIIDnE&ab_channel=IOT_Technion)
 
-https://github.com/SherMish/IOT-The-Lightning-Suit/blob/main/README%20screenshots/0.jpeg?raw=true
-https://github.com/SherMish/IOT-The-Lightning-Suit/blob/main/README%20screenshots/1.png?raw=true
+The official poster which was presented at the
+Inetrdisciplinary Center For Smart Technologies at the Faculty of Computer Science, Technion
 ![official-poster](https://github.com/SherMish/IOT-The-Lightning-Suit/blob/main/README%20screenshots/0.jpeg?raw=true)
+Homepage:
 ![hope-page](https://github.com/SherMish/IOT-The-Lightning-Suit/blob/main/README%20screenshots/1.png?raw=true)
+Choose workout page:
+![choose-workout](https://github.com/SherMish/IOT-The-Lightning-Suit/blob/main/README%20screenshots/2.jpg?raw=true)
+Pre-workout page:
+![pre-workout](https://github.com/SherMish/IOT-The-Lightning-Suit/blob/main/README%20screenshots/3.jpg?raw=true)
+Get ready and click to start page:
+![start](https://github.com/SherMish/IOT-The-Lightning-Suit/blob/main/README%20screenshots/4.png)
+Good posture comment:
+![good-posture](https://github.com/SherMish/IOT-The-Lightning-Suit/blob/main/README%20screenshots/6.jpg?raw=true)
+Bad posture comment:
+![bad-posture](https://github.com/SherMish/IOT-The-Lightning-Suit/blob/main/README%20screenshots/7.jpg?raw=true)
+Workout summary page:
+![summary](https://github.com/SherMish/IOT-The-Lightning-Suit/blob/main/README%20screenshots/5.jpg?raw=true)
 
 
 # External resources:
