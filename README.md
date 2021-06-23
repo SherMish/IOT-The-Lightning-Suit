@@ -13,10 +13,10 @@ A full demonstration can be found [here](https://www.youtube.com/watch?v=k7HDuFI
 
 
 
-
-# Mux guide: https://tronixstuff.com/2019/10/29/tutorial-using-the-tca9548a-1-to-8-i2c-multiplexer-breakout-with-arduino/
-# https://www.hackster.io/RoboticaDIY/send-data-from-arduino-to-nodemcu-and-nodemcu-to-arduino-17d47a
-# https://www.instructables.com/Quick-Start-to-Nodemcu-ESP8266-on-Arduino-IDE/
-# https://iot-guider.com/esp8266-nodemcu/serial-communication-between-nodemcu-and-arduino/
-# How to do POST from nodemcu: https://techtutorialsx.com/2016/07/21/esp8266-post-requests/
+# External resources:
+Mux guide: https://tronixstuff.com/2019/10/29/tutorial-using-the-tca9548a-1-to-8-i2c-multiplexer-breakout-with-arduino/
+https://www.hackster.io/RoboticaDIY/send-data-from-arduino-to-nodemcu-and-nodemcu-to-arduino-17d47a
+https://www.instructables.com/Quick-Start-to-Nodemcu-ESP8266-on-Arduino-IDE/
+https://iot-guider.com/esp8266-nodemcu/serial-communication-between-nodemcu-and-arduino/
+How to do POST from nodemcu: https://techtutorialsx.com/2016/07/21/esp8266-post-requests/
 
