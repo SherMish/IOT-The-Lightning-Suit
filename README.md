@@ -26,8 +26,13 @@ Good posture comment:
 
 Bad posture comment:
 ![bad-posture](https://github.com/SherMish/IOT-The-Lightning-Suit/blob/main/README%20screenshots/7.jpg?raw=true)
+
 Workout summary page:
 ![summary](https://github.com/SherMish/IOT-The-Lightning-Suit/blob/main/README%20screenshots/5.jpg?raw=true)
+
+The LightningSuit smart suit:
+![suit-1](https://github.com/SherMish/IOT-The-Lightning-Suit/blob/main/README%20screenshots/8.jpeg?raw=true)
+![suit-2](https://github.com/SherMish/IOT-The-Lightning-Suit/blob/main/README%20screenshots/9.jpeg?raw=true)
 
 
 # External resources:
